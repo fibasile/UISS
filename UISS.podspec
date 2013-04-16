@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name     = 'UISS'
-  s.version  = '1.1.0'
+  s.version  = '1.1.0b'
 
   s.platform = :ios, '5.0'
   
